@@ -1,5 +1,6 @@
 # Anotações 
-Leitura focados em métodos sim-to-real para treinamento/transferência de políticas de locomoção (Go2), buscando o formato mais simples e eficiente de reduzir o gap sim-to-real além de aleatorização de domínio.
+Estudo e leitura focados em métodos sim-to-real para treinamento/transferência de políticas de locomoção (Go2), buscando o formato mais simples e eficiente de reduzir o gap sim-to-real além de aleatorização de domínio.
+Foco em técnicas como teacher-student (distillation), aprendizado com informação privilegiada, adaptação online/identificação de sistema, e aproximação/alinhamento de representações de estado.
 
 - [Rapid Locomotion via Reinforcement Learning](https://github.com/luisafrancielle/anotacoes-akcit/blob/main/Rapid%20Locomotion%20via%20Reinforcement%20Learning)
 - [Obstacle-Aware Quadrupedal Locomotion With Resilient Multi-Modal Reinforcement Learning](https://github.com/luisafrancielle/anotacoes-akcit/blob/main/Obstacle-Aware%20Quadrupedal%20Locomotion%20With%20Resilient%20Multi-Modal%20Reinforcement%20Learning.md)
